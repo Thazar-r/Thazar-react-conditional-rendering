@@ -1,0 +1,77 @@
+# Node modules directory
+/node_modules/
+
+# Build output directory
+/dist/
+
+# Vite cache
+/.vite/
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# IDE and Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Linux trash folder
+.Trash-*
+
+# NPM debug log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local build artifacts
+*.tgz
+*.gz
+
+# Production
+/build/
+*.pem
+*.key
+*.crt
+
+# Coverage directory used by tools like NYC
+/coverage/
+
+# Jest and other test-related artifacts
+/coverage/
+*.test.js
+*.spec.js
+
+# Optional npm cache directory
+.npm/
+
+# Next.js build output
+.next/
+
+# Storybook build output
+out/
+storybook-static/
+
+# Caches for IDEs and tools
+*.cache
+*.eslintcache
